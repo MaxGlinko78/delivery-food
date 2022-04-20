@@ -1,1 +1,7 @@
-# delivery-food
+# Delivery-Food - Учебный проект 
+
+В проекте используется:
+- HTML
+- CSS
+- JavaScript
+- Normalize.css
